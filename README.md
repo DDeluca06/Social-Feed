@@ -1,8 +1,18 @@
-# React + Vite
+# Social Feed
+A social feed using React + TailwindCSS, with Vite as a builder.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Tech Stack
+- Frontend: React
+- CSS Framework: TailwindCSS, PostCSS
+- Builder: Vite
+- State Management: React Context API
 
-Currently, two official plugins are available:
+# Dev Dependencies
+- ESLint
+- Prettier
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Building the Project
+1. Clone the repository.
+2. Run `npm install` to install all dependencies.
+3. Run `npm run dev` to start the development server.
+4. Open `http://localhost:5173` in your browser to view the project.
