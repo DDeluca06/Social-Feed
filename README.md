@@ -16,3 +16,6 @@ A social feed using React + TailwindCSS, with Vite as a builder.
 2. Run `npm install` to install all dependencies.
 3. Run `npm run dev` to start the development server.
 4. Open `http://localhost:5173` in your browser to view the project.
+
+# Wireframe
+![Wireframe](https://i.imgur.com/RXe1Q6G.png)
